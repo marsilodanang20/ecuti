@@ -80,7 +80,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a class="brand-link text-center text-sm">
-        <img src=" <?php echo base_url() . 'assets/dist/img/e_cuti.png'; ?>" style="height:38px;width:100;">
+        <img src=" <?php echo base_url() . 'assets/dist/img/e-cuti.png'; ?>" style="height:38px;width:100;">
     </a>
 
     <!-- Sidebar -->

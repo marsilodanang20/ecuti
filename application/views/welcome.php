@@ -32,7 +32,7 @@
                     <div class="col-lg-8 align-self-end">
                         <img src="<?=base_url();?>assets/welcome/assets/img/logo_ma.png" style="height:auto;width:80px;" class="mb-2">
                         <h1 class="text-white font-weight-bold">Welcome to E-Cuti</h1>
-                        <h4 class="text-white font-weight-bold">Pengadilan Negeri Jakarta Utara Kelas I A Khusus</h4>
+                        <h4 class="text-white font-weight-bold">Pengadilan Agama Sumber Kelas 1A</h4>
                         <hr class="divider"/>
                     </div>
                     <div class="col-lg-8 align-self-baseline">

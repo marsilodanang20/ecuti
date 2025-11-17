@@ -1,7 +1,7 @@
   <div class="login-logo mb-1 text-white">
     <img src="<?php echo base_url() . 'assets/dist/img/logo_ma.png'; ?>" style="height:auto;width:53px;" class="mb-2">
     <h2><b>E-Cuti</b></h2>
-    <h6 class="mb-3"> <b>Pengadilan Negeri Jakarta Utara Kelas I A Khusus</b></h6>
+    <h6 class="mb-3"> <b>Pengadilan Agama Sumber Kelas 1A</b></h6>
   </div>
   <div class="card card-outline card-default">
     <div class="card-body">
