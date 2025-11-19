@@ -100,7 +100,7 @@ class Authentication extends CI_Controller {
         $config = [
             'protocol'  => 'smtp',
             'smtp_host' => 'ssl://smtp.googlemail.com',
-            'smtp_user' => 'anjayy631@gmail.com',
+            'smtp_user' => 'marsilodanang20@gmail.com',
             'smtp_pass' => '$2y$10$0Pj',
             'smtp_port' => 465,
             'mailtype'  => 'html',
@@ -110,7 +110,7 @@ class Authentication extends CI_Controller {
 
         $this->email->initialize($config);
 
-        $this->email->from('anjayy631@gmail.com', 'E-Cuti | Pengadilan Negeri Jakarta Utara Kelas I A Khusus');
+        $this->email->from('marsilodanang20@gmail.com', 'E-Cuti | Pengadilan Agama Sumber Kelas I A');
         $this->email->to($this->input->post('email'));
 
         if ($type == 'verify') {
